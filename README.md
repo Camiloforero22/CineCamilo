@@ -77,10 +77,17 @@ Este proyecto al iniciar se vera de la siguiente manera:
 se pueden agregar, buscar, eliminar peliculas
 
 En el item de agregar peliculas, nos pedira los siguientes datos:
+
 <img width="351" alt="Captura de Pantalla 2022-03-07 a la(s) 10 46 38 a m" src="https://user-images.githubusercontent.com/90879619/157067836-e3f78024-9f8a-44d7-9314-7804a5b7e191.png">
 
 Nombre de la pelicula
 Imagen de la pelicula: adicional de las que se cargan inicialmente hay dos mas (Batman.jpg) y (Scream.jpg) si no ponemos las siguientes imagenes, nos aparecera en blanco el campo de la imagen, ya que no hay mas pre-cargadas
 
+Buscar:
+<img width="1093" alt="Captura de Pantalla 2022-03-07 a la(s) 10 48 32 a m" src="https://user-images.githubusercontent.com/90879619/157068163-405e07d6-ead1-4193-a388-edf252b08886.png">
+
+Eliminar
+
+<img width="1154" alt="Captura de Pantalla 2022-03-07 a la(s) 10 48 50 a m" src="https://user-images.githubusercontent.com/90879619/157068208-0113becd-41b0-48aa-8a74-a4023828c7b6.png">
 
 
