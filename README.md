@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Este proyecto al iniciar se vera de la siguiente manera:
+
+<img width="1125" alt="Captura de Pantalla 2022-03-07 a la(s) 10 44 13 a m" src="https://user-images.githubusercontent.com/90879619/157067351-47629384-5bd8-4361-b0bf-7543cdd4dedd.png">
+
+se pueden agregar, buscar, eliminar peliculas
+
+En el item de agregar peliculas, nos pedira los siguientes datos:
+<img width="351" alt="Captura de Pantalla 2022-03-07 a la(s) 10 46 38 a m" src="https://user-images.githubusercontent.com/90879619/157067836-e3f78024-9f8a-44d7-9314-7804a5b7e191.png">
+
+Nombre de la pelicula
+Imagen de la pelicula: adicional de las que se cargan inicialmente hay dos mas (Batman.jpg) y (Scream.jpg) si no ponemos las siguientes imagenes, nos aparecera en blanco el campo de la imagen, ya que no hay mas pre-cargadas
+
+
+
